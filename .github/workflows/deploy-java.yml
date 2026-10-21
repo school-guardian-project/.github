@@ -66,5 +66,5 @@ jobs:
             aws ecr get-login-password --region ${{ vars.AWS_REGION }} | docker login --username AWS --password-stdin ${{ steps.login-ecr.outputs.registry }}
             docker stop ${{ inputs.app_name }} || true
             docker rm ${{ inputs.app_name }} || true
-            docker pull ${{ steps.login-ecr.outputs.registry }}/${{ vars.ECR_REPOSITORY_NAME }}:${{ github.sha }}
-            docker run -d --name ${{ inputs.app_name }} --network ${{ vars.DOCKER_NETWORK_NAME }} ${{ steps.login-ecr.outputs.registry }}/${{ vars.ECR_REPOSITORY_NAME }}:${{ github.sha }} --restart unless-stopped --env-file "$ENV_FILE" "$IMAGE"
+            docker pull "$IMAGE"
+            docker run -d --name ${{ inputs.app_name }} --network ${{ vars.DOCKER_NETWORK_NAME }} --restart unless-stopped --env-file "$ENV_FILE" "$IMAGE"
