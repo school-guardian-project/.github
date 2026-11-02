@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/school-guardian-project/GuardianEscolar/blob/main/dvlp-front/dvlp-movil/guardian-escolar/assets/adaptive-icon.png" width="128" height="128" alt="School Guardian">
+  <img src="https://github.com/school-guardian-project/GuardianEscolar/blob/main/dvlp-front/dvlp-movil/guardian-escolar/assets/adaptive-icon.png" width="128" height="128" alt="School Guardian">
 </p>
 
 <h1 align="center">School Guardian</h1>
