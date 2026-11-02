@@ -9,13 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TableProApp/TablePro/releases/latest"><img src="https://img.shields.io/github/v/release/TableProApp/TablePro?style=flat-square&color=blue" alt="Latest Release"></a>
-  <a href="https://github.com/TableProApp/TablePro/blob/main/LICENSE"><img src="https://img.shields.io/github/license/TableProApp/TablePro?style=flat-square" alt="License"></a>
-  <a href="https://github.com/TableProApp/TablePro/stargazers"><img src="https://img.shields.io/github/stars/TableProApp/TablePro?style=flat-square" alt="Stars"></a>
-</p>
-
-<p align="center">
-  <a href="https://guardian-escolar.vercel.app">Website</a> · <a href="https://github.com/school-guardian-project/sg-documentation">¡PENDIENTE!</a> · <a href="https://github.com/TableProApp/TablePro/releases/latest">¡PENDIENTE!</a>
+  <a href="https://guardian-escolar.vercel.app">Website</a> · <a href="https://github.com/school-guardian-project/sg-documentation"></a> · <a href="https://github.com/TableProApp/TablePro/releases/latest">¡PENDIENTE!</a>
 </p>
 
 ---
