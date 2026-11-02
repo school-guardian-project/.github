@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/school-guardian-project/GuardianEscolar/blob/main/dvlp-front/dvlp-movil/guardian-escolar/assets/adaptive-icon.png" width="128" height="128" alt="School Guardian">
+  <img src="https://github.com/school-guardian-project/GuardianEscolar/blob/main/dvlp-front/dvlp-movil/guardian-escolar/assets/adaptive-icon-copy.png" width="128" height="128" alt="School Guardian">
 </p>
 
 <h1 align="center">School Guardian</h1>
@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://guardian-escolar.vercel.app">Website</a> · <a href="https://github.com/school-guardian-project/sg-documentation"></a> · <a href="https://github.com/TableProApp/TablePro/releases/latest">¡PENDIENTE!</a>
+  <a href="https://guardian-escolar.vercel.app">Website</a> · <a href="https://github.com/school-guardian-project/sg-documentation">Documentation</a>
 </p>
 
 ---
 
 <p align="center">
   <picture>
-    <img alt="School Guardian" src="https://raw.githubusercontent.com/school-guardian-project/GuardianEscolar/main/.github/assets/app-light.png" width="800">
+    <img alt="School Guardian" src="https://github.com/school-guardian-project/GuardianEscolar/blob/main/dvlp-front/dvlp-web/public/assets/dashbard.png" width="800">
   </picture>
 </p>
 
