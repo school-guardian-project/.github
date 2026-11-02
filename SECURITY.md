@@ -168,7 +168,9 @@ The administration of this policy is the responsibility of the authorized mainta
 
 This document must be reviewed whenever relevant changes occur in the architecture, infrastructure, security mechanisms, development processes, or applicable legal requirements.
 
-**Document owner:** Pending definition.  
-**Approval:** Pending.  
-**Approval date:** Pending.  
-**Next review:** Pending.
+**Document owner**: School Guardian Organization Team (school-guardian-project).
+**Responsible team**: Organization Team.
+**Document date**: November 2, 2026.
+**Last updated**: November 2, 2026.
+**Review**: Whenever significant changes occur in the project's architecture, infrastructure, security mechanisms, development processes, or applicable requirements.
+**Approval authority**: School Guardian Organization Team.
