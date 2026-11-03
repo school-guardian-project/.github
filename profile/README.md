@@ -16,7 +16,7 @@
 
 <p align="center">
   <picture>
-    <img alt="School Guardian" src="https://github.com/school-guardian-project/GuardianEscolar/blob/main/dvlp-front/dvlp-web/public/assets/dashbard.png" width="800">
+    <img alt="School Guardian" src="https://github.com/school-guardian-project/GuardianEscolar/blob/main/dvlp-front/dvlp-web/public/assets/dashboard.png" width="800">
   </picture>
 </p>
 
