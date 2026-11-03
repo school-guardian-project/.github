@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/school-guardian-project/GuardianEscolar/blob/main/dvlp-front/dvlp-movil/guardian-escolar/assets/adaptive-icon-copy.png" width="128" height="128" alt="School Guardian">
+  <img src="https://github.com/school-guardian-project/GuardianEscolar/blob/main/dlvp-front/dlvp-movil/guardian-escolar/assets/adaptive-icon-copy.png" width="128" height="128" alt="School Guardian">
 </p>
 
 <h1 align="center">School Guardian</h1>
 
 <p align="center">
-  School Guardian is a platform for school transportation and student safety. It enables families, students, drivers, and school administrators to manage assigned routes and buses, track them in real time, and coordinate transportation operations safely and efficiently. The platform consists of frontend clients (a web application built with Angular and a mobile application built with React Native/Expo) and a suite of backend microservices—covering authentication, user and school management, route and fleet administration, and notifications—all exposed via an API Gateway.
+  School transportation and student safety platform. Route, bus, and real-time tracking management for families, students, drivers, and administrators.
 </p>
 
 <p align="center">
@@ -16,16 +16,16 @@
 
 <p align="center">
   <picture>
-    <img alt="School Guardian" src="https://github.com/school-guardian-project/GuardianEscolar/blob/main/dvlp-front/dvlp-web/public/assets/dashboard.png" width="800">
+    <img alt="Dashboard" src="https://github.com/school-guardian-project/GuardianEscolar/blob/main/dlvp-front/dlvp-web/public/assets/dashboard.png" width="800">
   </picture>
 </p>
 
 ## About
 
-Guardian Escolar is a system that provides students' guardians with real-time information regarding school bus routes, and uses QR code scanning to notify them when students board or disembark from the school bus.
+System that gives guardians real-time information about school bus routes and uses QR code scanning to notify when students board or disembark.
 
 ## Applications
 
-**Web**: Administrative dashboard-style application for managing users, buses, routes, etc.
-
-**Mobile**: Application containing the personal information of users and their associated routes.
+- **Web**: Administrative dashboard to manage users, buses, routes, etc.
+- **Mobile**: App with user information and associated routes.
+- **Backend**: Microservices for authentication, users, schools, routes, fleet, and notifications via API Gateway.
