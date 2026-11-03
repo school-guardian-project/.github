@@ -5,7 +5,7 @@
 <h1 align="center">School Guardian</h1>
 
 <p align="center">
-  kjhg
+  School Guardian is a platform for school transportation and student safety. It enables families, students, drivers, and school administrators to manage assigned routes and buses, track them in real time, and coordinate transportation operations safely and efficiently. The platform consists of frontend clients (a web application built with Angular and a mobile application built with React Native/Expo) and a suite of backend microservices—covering authentication, user and school management, route and fleet administration, and notifications—all exposed via an API Gateway.
 </p>
 
 <p align="center">
