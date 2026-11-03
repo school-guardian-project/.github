@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/school-guardian-project/GuardianEscolar/blob/main/dlvp-front/dlvp-movil/guardian-escolar/assets/adaptive-icon-copy.png" width="128" height="128" alt="School Guardian">
+  <img src="https://github.com/school-guardian-project/GuardianEscolar/blob/main/dvlp-front/dvlp-movil/guardian-escolar/assets/adaptive-icon-copy.png" width="128" height="128" alt="School Guardian">
 </p>
 
 <h1 align="center">School Guardian</h1>
@@ -16,7 +16,7 @@
 
 <p align="center">
   <picture>
-    <img alt="Dashboard" src="https://github.com/school-guardian-project/GuardianEscolar/blob/main/dlvp-front/dlvp-web/public/assets/dashboard.png" width="800">
+    <img alt="Dashboard" src="https://github.com/school-guardian-project/GuardianEscolar/blob/main/dvlp-front/dvlp-web/public/assets/dashboard.png" width="800">
   </picture>
 </p>
 
