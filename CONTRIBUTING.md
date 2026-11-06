@@ -2,9 +2,9 @@
 
 Thank you for your interest in contributing to Guardian Escolar.
 
-Guardian Escolar is a proprietary software project developed and maintained by the `school-guardian-project` organization. We welcome contributions from developers and collaborators who wish to help improve the platform, its services, documentation, and technical infrastructure.
+Guardian Escolar is an open-source software project developed and maintained by the `school-guardian-project` organization, released under the MIT License. We welcome contributions from developers and collaborators who wish to help improve the platform, its services, documentation, and technical infrastructure.
 
-Our contribution model encourages collaboration while preserving the project's intellectual property, architectural integrity, security, and long-term sustainability.
+Our contribution model encourages collaboration while respecting the project's architectural integrity, security, and long-term sustainability.
 
 By participating in the project, contributors agree to follow the guidelines described in this document and the applicable organizational policies.
 
@@ -21,18 +21,13 @@ All contributions must follow these principles:
 
 ## 2. Access and Authorization
 
-Guardian Escolar does not operate under an unrestricted public contribution model.
+Guardian Escolar operates under an open-source contribution model. The source code is publicly available and contributions are welcome from the community.
 
-Access to source code repositories is granted exclusively to authorized collaborators.
+Before contributing, contributors are encouraged to:
 
-Before receiving access, contributors may be required to:
-
-- Obtain authorization from the project maintainers.
-- Accept the applicable Contributor Agreement and intellectual property conditions.
+- Review the MIT License terms under which the project is released.
 - Review the development, security, and repository policies.
-- Receive access permissions appropriate to their assigned responsibilities.
-
-Access to one repository does not automatically grant access to other repositories within the organization.
+- Follow the contribution workflow described in this document.
 
 ## 3. Contribution Workflow
 
@@ -72,11 +67,11 @@ Example branch naming conventions:
 
 ### 4.1 Forking and Redistribution
 
-Guardian Escolar does not authorize independent forks, redistribution, or the creation of independently maintained copies of its proprietary source code.
+Guardian Escolar is released under the MIT License, which permits forking, redistribution, and the creation of independently maintained copies of the source code.
 
-Contributions must be developed through authorized access to the organization's repositories and submitted using the established Pull Request workflow.
+Contributions may be developed through forks of the organization's repositories and submitted using the established Pull Request workflow.
 
-No contributor may independently publish, distribute, sublicense, or commercially exploit Guardian Escolar or derivative versions without express authorization from the rights holder.
+Contributors are free to publish, distribute, sublicense, or commercially exploit Guardian Escolar or derivative versions in accordance with the MIT License terms.
 
 ## 5. Code Quality and Technical Standards
 
@@ -194,7 +189,7 @@ In case of conflict, applicable written agreements and higher-level organization
 
 ## 14. Related Documents
 
-- `LICENSE-POLICY.md`
+- `LICENSE`
 - `CONTRIBUTOR-AGREEMENT.md`
 - `SECURITY.md`
 - `CODE_OF_CONDUCT.md`

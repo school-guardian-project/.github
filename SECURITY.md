@@ -157,7 +157,7 @@ This policy should be interpreted together with the applicable School Guardian d
 - `GOVERNANCE.md`
 - `CONTRIBUTING.md`
 - `CODE_OF_CONDUCT.md`
-- `LICENSE-POLICY.md`
+- `LICENSE`
 - `ARCHITECTURE-POLICY.md`
 - `DEVELOPMENT-STANDARDS.md`
 - `DEPENDENCY-POLICY.md`
