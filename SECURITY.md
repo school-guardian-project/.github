@@ -154,13 +154,8 @@ Where appropriate, the circumstances may be assessed in accordance with applicab
 
 This policy should be interpreted together with the applicable School Guardian documents, including:
 
-- `GOVERNANCE.md`
 - `CONTRIBUTING.md`
 - `CODE_OF_CONDUCT.md`
-- `LICENSE`
-- `ARCHITECTURE-POLICY.md`
-- `DEVELOPMENT-STANDARDS.md`
-- `DEPENDENCY-POLICY.md`
 
 ## 14. Administration and Review
 

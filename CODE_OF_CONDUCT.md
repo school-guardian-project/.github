@@ -140,11 +140,8 @@ Its content may be updated when changes occur in the governance structure, colla
 
 This code should be interpreted together with the following documents:
 
-- `GOVERNANCE.md`
 - `CONTRIBUTING.md`
 - `SECURITY.md`
-- `LICENSE`
-- `CONTRIBUTOR-AGREEMENT.md`
 
 ## 12. Document Administration
 

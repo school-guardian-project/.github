@@ -86,7 +86,7 @@ All contributions must:
 - Avoid introducing hardcoded credentials, secrets, or sensitive information.
 - Avoid introducing known vulnerabilities or insecure implementation patterns.
 
-Contributors must consult `DEVELOPMENT-STANDARDS.md` and `ARCHITECTURE-POLICY.md` where applicable.
+Contributors must consult the project's development and architecture standards where applicable.
 
 ## 6. Pull Request Requirements
 
@@ -129,7 +129,6 @@ Authors of accepted contributions may be recognized through:
 
 - Git commit authorship.
 - Pull Request attribution.
-- The organization's `CONTRIBUTORS.md` file, where maintained.
 - Release notes and changelogs, when relevant.
 
 Recognition is intended to acknowledge the actual work performed and does not, by itself, grant ownership of the project, commercial rights, or participation in its revenues.
@@ -189,14 +188,10 @@ In case of conflict, applicable written agreements and higher-level organization
 
 ## 14. Related Documents
 
-- `LICENSE`
-- `CONTRIBUTOR-AGREEMENT.md`
 - `SECURITY.md`
 - `CODE_OF_CONDUCT.md`
-- `ARCHITECTURE-POLICY.md`
-- `DEVELOPMENT-STANDARDS.md`
-- `DEPENDENCY-POLICY.md`
-- `CONTRIBUTORS.md`
+- `GIT-CONVENTIONS.md`
+- `PULL_REQUEST_TEMPLATE.md`
 
 ---
 
